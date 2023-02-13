@@ -1,7 +1,7 @@
 {
     "name": "IshU",
     "start_url": "/PWA",
-    "disply": "Standlone",
+    "disply": "standlone",
     "icons": [
         {
             "src": "./assets/images/SKILLHUB-48-48.png",
